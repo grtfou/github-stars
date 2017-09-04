@@ -1,13 +1,13 @@
 ##### Created at 2017-09-04 by get_starred_list.py
 
-# C
+# C 
 
 ---
 
-## uwsgi
+## uwsgi 
 
 '''
-uWSGI application server container
+uWSGI application server container 
 '''
 
   * [Github](https://github.com/unbit/uwsgi)
@@ -15,10 +15,10 @@ uWSGI application server container
   * Open issues: 394
   * Last pushed: 2017-09-04 (0 days)
 
-## hime
+## hime 
 
 '''
-HIME Input Method Editor
+HIME Input Method Editor 
 '''
 
   * [Github](https://github.com/hime-ime/hime)
@@ -26,10 +26,10 @@ HIME Input Method Editor
   * Open issues: 212
   * Last pushed: 2017-04-27 (129 days)
 
-## nginx-rtmp-module
+## nginx-rtmp-module 
 
 '''
-NGINX-based Media Streaming Server
+NGINX-based Media Streaming Server 
 '''
 
   * [Github](https://github.com/arut/nginx-rtmp-module)
@@ -37,14 +37,14 @@ NGINX-based Media Streaming Server
   * Open issues: 640
   * Last pushed: 2017-07-10 (55 days)
 
-# C#
+# C# 
 
 ---
 
-## OpenRA
+## OpenRA 
 
 '''
-Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.
+Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X. 
 '''
 
   * [Github](https://github.com/OpenRA/OpenRA)
@@ -52,14 +52,14 @@ Open Source real-time strategy game engine for early Westwood games such as Comm
   * Open issues: 1307
   * Last pushed: 2017-09-03 (0 days)
 
-# C++
+# C++ 
 
 ---
 
-## codequery
+## codequery 
 
 '''
-A code-understanding,  code-browsing or code-search tool. This is a tool to index, then query or search C, C++, Java, Python, Ruby, Go and Javascript source code. It builds upon the databases of cscope and ctags, and provides a nice GUI tool.
+A code-understanding,  code-browsing or code-search tool. This is a tool to index, then query or search C, C++, Java, Python, Ruby, Go and Javascript source code. It builds upon the databases of cscope and ctags, and provides a nice GUI tool. 
 '''
 
   * [Github](https://github.com/ruben2020/codequery)
@@ -67,10 +67,10 @@ A code-understanding,  code-browsing or code-search tool. This is a tool to inde
   * Open issues: 15
   * Last pushed: 2017-07-22 (43 days)
 
-## s3fs-fuse
+## s3fs-fuse 
 
 '''
-FUSE-based file system backed by Amazon S3
+FUSE-based file system backed by Amazon S3 
 '''
 
   * [Github](https://github.com/s3fs-fuse/s3fs-fuse)
@@ -78,10 +78,10 @@ FUSE-based file system backed by Amazon S3
   * Open issues: 122
   * Last pushed: 2017-08-11 (23 days)
 
-## rainmeter
+## rainmeter 
 
 '''
-Desktop customization tool for Windows
+Desktop customization tool for Windows 
 '''
 
   * [Github](https://github.com/rainmeter/rainmeter)
@@ -89,10 +89,10 @@ Desktop customization tool for Windows
   * Open issues: 26
   * Last pushed: 2017-09-04 (0 days)
 
-## mmh3
+## mmh3 
 
 '''
-Python wrapper for MurmurHash (MurmurHash3), a set of fast and robust hash functions.
+Python wrapper for MurmurHash (MurmurHash3), a set of fast and robust hash functions. 
 '''
 
   * [Github](https://github.com/hajimes/mmh3)
@@ -100,14 +100,14 @@ Python wrapper for MurmurHash (MurmurHash3), a set of fast and robust hash funct
   * Open issues: 1
   * Last pushed: 2017-05-27 (99 days)
 
-# CSS
+# CSS 
 
 ---
 
-## devops-tools
+## devops-tools 
 
 '''
-Configs and scripts for common deployment tools
+Configs and scripts for common deployment tools 
 '''
 
   * [Github](https://github.com/grtfou/devops-tools)
@@ -115,10 +115,10 @@ Configs and scripts for common deployment tools
   * Open issues: 0
   * Last pushed: 2017-08-28 (7 days)
 
-## pelican-themes
+## pelican-themes 
 
 '''
-Themes for pelican
+Themes for pelican 
 '''
 
   * [Github](https://github.com/getpelican/pelican-themes)
@@ -126,14 +126,14 @@ Themes for pelican
   * Open issues: 69
   * Last pushed: 2017-09-01 (2 days)
 
-# GO
+# GO 
 
 ---
 
-## emoji
+## emoji 
 
 '''
-:sushi: emoji terminal output for golang
+:sushi: emoji terminal output for golang 
 '''
 
   * [Github](https://github.com/kyokomi/emoji)
@@ -141,10 +141,10 @@ Themes for pelican
   * Open issues: 0
   * Last pushed: 2017-05-22 (104 days)
 
-## glide
+## glide 
 
 '''
-Package Management for Golang
+Package Management for Golang 
 '''
 
   * [Github](https://github.com/Masterminds/glide)
@@ -152,10 +152,10 @@ Package Management for Golang
   * Open issues: 320
   * Last pushed: 2017-08-08 (26 days)
 
-## boom
+## boom 
 
 '''
-HTTP(S) load generator, ApacheBench (ab) replacement, written in Go
+HTTP(S) load generator, ApacheBench (ab) replacement, written in Go 
 '''
 
   * [Github](https://github.com/rakyll/boom)
@@ -163,10 +163,10 @@ HTTP(S) load generator, ApacheBench (ab) replacement, written in Go
   * Open issues: 32
   * Last pushed: 2016-09-02 (366 days)
 
-## demo
+## demo 
 
 '''
-None
+None 
 '''
 
   * [Github](https://github.com/TritonHo/demo)
@@ -174,21 +174,21 @@ None
   * Open issues: 0
   * Last pushed: 2016-04-16 (505 days)
 
-## terraform
+## terraform 
 
 '''
-Terraform is a tool for building, changing, and combining infrastructure safely and efficiently.
+Terraform is a tool for building, changing, and combining infrastructure safely and efficiently. 
 '''
 
   * [Github](https://github.com/hashicorp/terraform)
-  * Stars: 9329
+  * Stars: 9330
   * Open issues: 1037
   * Last pushed: 2017-09-04 (0 days)
 
-## goreplay
+## goreplay 
 
 '''
-GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.
+GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes. 
 '''
 
   * [Github](https://github.com/buger/goreplay)
@@ -196,10 +196,10 @@ GoReplay is an open-source tool for capturing and replaying live HTTP traffic in
   * Open issues: 62
   * Last pushed: 2017-09-03 (0 days)
 
-## go-restful
+## go-restful 
 
 '''
-package for building REST-style Web Services using Google Go
+package for building REST-style Web Services using Google Go 
 '''
 
   * [Github](https://github.com/emicklei/go-restful)
@@ -207,10 +207,10 @@ package for building REST-style Web Services using Google Go
   * Open issues: 12
   * Last pushed: 2017-08-04 (30 days)
 
-## go-json-rest
+## go-json-rest 
 
 '''
-A quick and easy way to setup a RESTful JSON API
+A quick and easy way to setup a RESTful JSON API 
 '''
 
   * [Github](https://github.com/ant0ine/go-json-rest)
@@ -218,32 +218,32 @@ A quick and easy way to setup a RESTful JSON API
   * Open issues: 33
   * Last pushed: 2017-07-20 (45 days)
 
-## moby
+## moby 
 
 '''
-Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+Moby Project - a collaborative project for the container ecosystem to assemble container-based systems 
 '''
 
   * [Github](https://github.com/moby/moby)
-  * Stars: 45278
+  * Stars: 45280
   * Open issues: 2873
   * Last pushed: 2017-09-04 (0 days)
 
-## hugo
+## hugo 
 
 '''
-A Fast and Flexible Static Site Generator built with love in GoLang.
+A Fast and Flexible Static Site Generator built with love in GoLang. 
 '''
 
   * [Github](https://github.com/gohugoio/hugo)
-  * Stars: 19355
+  * Stars: 19356
   * Open issues: 273
   * Last pushed: 2017-09-03 (0 days)
 
-## web
+## web 
 
 '''
-The easiest way to create web applications with Go
+The easiest way to create web applications with Go 
 '''
 
   * [Github](https://github.com/hoisie/web)
@@ -251,10 +251,10 @@ The easiest way to create web applications with Go
   * Open issues: 36
   * Last pushed: 2017-06-20 (76 days)
 
-## nsq
+## nsq 
 
 '''
-A realtime distributed messaging platform
+A realtime distributed messaging platform 
 '''
 
   * [Github](https://github.com/nsqio/nsq)
@@ -262,10 +262,10 @@ A realtime distributed messaging platform
   * Open issues: 60
   * Last pushed: 2017-09-01 (2 days)
 
-## godropbox
+## godropbox 
 
 '''
-Common libraries for writing Go services/applications.
+Common libraries for writing Go services/applications. 
 '''
 
   * [Github](https://github.com/dropbox/godropbox)
@@ -273,14 +273,14 @@ Common libraries for writing Go services/applications.
   * Open issues: 1
   * Last pushed: 2017-08-04 (30 days)
 
-# HTML
+# HTML 
 
 ---
 
-## emoji-cheat-sheet.com
+## emoji-cheat-sheet.com 
 
 '''
-A one pager for emojis on Campfire and GitHub
+A one pager for emojis on Campfire and GitHub 
 '''
 
   * [Github](https://github.com/WebpageFX/emoji-cheat-sheet.com)
@@ -288,21 +288,21 @@ A one pager for emojis on Campfire and GitHub
   * Open issues: 82
   * Last pushed: 2017-08-30 (5 days)
 
-## gentelella
+## gentelella 
 
 '''
-Free Bootstrap 3 Admin Template
+Free Bootstrap 3 Admin Template 
 '''
 
   * [Github](https://github.com/puikinsh/gentelella)
-  * Stars: 12278
+  * Stars: 12279
   * Open issues: 26
   * Last pushed: 2017-08-31 (3 days)
 
-## git-flow-cheatsheet
+## git-flow-cheatsheet 
 
 '''
-A cheatsheet on the usage of git flow
+A cheatsheet on the usage of git flow 
 '''
 
   * [Github](https://github.com/danielkummer/git-flow-cheatsheet)
@@ -310,10 +310,10 @@ A cheatsheet on the usage of git flow
   * Open issues: 12
   * Last pushed: 2017-08-21 (14 days)
 
-## Font-Awesome
+## Font-Awesome 
 
 '''
-The iconic font and CSS toolkit
+The iconic font and CSS toolkit 
 '''
 
   * [Github](https://github.com/FortAwesome/Font-Awesome)
@@ -321,14 +321,14 @@ The iconic font and CSS toolkit
   * Open issues: 4244
   * Last pushed: 2017-08-16 (18 days)
 
-# JAVA
+# JAVA 
 
 ---
 
-## 2048
+## 2048 
 
 '''
-2048 Game with Kivy
+2048 Game with Kivy 
 '''
 
   * [Github](https://github.com/tito/2048)
@@ -336,14 +336,14 @@ The iconic font and CSS toolkit
   * Open issues: 4
   * Last pushed: 2017-05-03 (123 days)
 
-# JAVASCRIPT
+# JAVASCRIPT 
 
 ---
 
-## node-lwm2m
+## node-lwm2m 
 
 '''
-:spider_web: OMA LightweightM2M protocol implementation for Node.js
+:spider_web: OMA LightweightM2M protocol implementation for Node.js 
 '''
 
   * [Github](https://github.com/moleike/node-lwm2m)
@@ -351,10 +351,10 @@ The iconic font and CSS toolkit
   * Open issues: 0
   * Last pushed: 2017-09-01 (3 days)
 
-## gollum
+## gollum 
 
 '''
-A simple, Git-powered wiki with a sweet API and local frontend.
+A simple, Git-powered wiki with a sweet API and local frontend. 
 '''
 
   * [Github](https://github.com/gollum/gollum)
@@ -362,10 +362,10 @@ A simple, Git-powered wiki with a sweet API and local frontend.
   * Open issues: 68
   * Last pushed: 2017-08-08 (26 days)
 
-## Interviews
+## Interviews 
 
 '''
-None
+None 
 '''
 
   * [Github](https://github.com/alex-cory/Interviews)
@@ -373,10 +373,10 @@ None
   * Open issues: 0
   * Last pushed: 2017-08-04 (30 days)
 
-## DataTables
+## DataTables 
 
 '''
-Tables plug-in for jQuery
+Tables plug-in for jQuery 
 '''
 
   * [Github](https://github.com/DataTables/DataTables)
@@ -384,10 +384,10 @@ Tables plug-in for jQuery
   * Open issues: 110
   * Last pushed: 2017-09-04 (0 days)
 
-## jaspy
+## jaspy 
 
 '''
-a Python VM written entirely from scratch in JavaScript with some unique features
+a Python VM written entirely from scratch in JavaScript with some unique features 
 '''
 
   * [Github](https://github.com/koehlma/jaspy)
@@ -395,10 +395,10 @@ a Python VM written entirely from scratch in JavaScript with some unique feature
   * Open issues: 1
   * Last pushed: 2016-09-17 (351 days)
 
-## es6-react-label-list
+## es6-react-label-list 
 
 '''
-React label list component
+React label list component 
 '''
 
   * [Github](https://github.com/jootse84/es6-react-label-list)
@@ -406,10 +406,10 @@ React label list component
   * Open issues: 0
   * Last pushed: 2016-04-12 (509 days)
 
-## parse-server
+## parse-server 
 
 '''
-Parse-compatible API server module for Node/Express
+Parse-compatible API server module for Node/Express 
 '''
 
   * [Github](https://github.com/parse-community/parse-server)
@@ -417,10 +417,10 @@ Parse-compatible API server module for Node/Express
   * Open issues: 234
   * Last pushed: 2017-09-03 (0 days)
 
-## canvas-polygon
+## canvas-polygon 
 
 '''
-A simple library to draw a polygon in canvas element.
+A simple library to draw a polygon in canvas element. 
 '''
 
   * [Github](https://github.com/reJoker/canvas-polygon)
@@ -428,10 +428,10 @@ A simple library to draw a polygon in canvas element.
   * Open issues: 0
   * Last pushed: 2016-03-07 (545 days)
 
-## 500lines
+## 500lines 
 
 '''
-500 Lines or Less
+500 Lines or Less 
 '''
 
   * [Github](https://github.com/aosabook/500lines)
@@ -439,10 +439,10 @@ A simple library to draw a polygon in canvas element.
   * Open issues: 39
   * Last pushed: 2017-07-27 (38 days)
 
-## book-example
+## book-example 
 
 '''
-Example code for my book on TDD with Python
+Example code for my book on TDD with Python 
 '''
 
   * [Github](https://github.com/hjwp/book-example)
@@ -450,10 +450,10 @@ Example code for my book on TDD with Python
   * Open issues: 0
   * Last pushed: 2017-08-14 (21 days)
 
-## node-oauth2-provider
+## node-oauth2-provider 
 
 '''
-A simple customizable OAuth 2.0 provider (server) for node.js.
+A simple customizable OAuth 2.0 provider (server) for node.js. 
 '''
 
   * [Github](https://github.com/ammmir/node-oauth2-provider)
@@ -461,10 +461,10 @@ A simple customizable OAuth 2.0 provider (server) for node.js.
   * Open issues: 15
   * Last pushed: 2016-10-06 (332 days)
 
-## shields
+## shields 
 
 '''
-Shields badge specification, website and default API server
+Shields badge specification, website and default API server 
 '''
 
   * [Github](https://github.com/badges/shields)
@@ -472,10 +472,10 @@ Shields badge specification, website and default API server
   * Open issues: 231
   * Last pushed: 2017-09-03 (0 days)
 
-## hexo
+## hexo 
 
 '''
-A fast, simple & powerful blog framework, powered by Node.js.
+A fast, simple & powerful blog framework, powered by Node.js. 
 '''
 
   * [Github](https://github.com/hexojs/hexo)
@@ -483,36 +483,36 @@ A fast, simple & powerful blog framework, powered by Node.js.
   * Open issues: 282
   * Last pushed: 2017-09-02 (2 days)
 
-## mediaelement
+## mediaelement 
 
 '''
-HTML5 <audio> or <video> player with support for MP4, WebM, and MP3 as well as HLS, Dash, YouTube, Facebook, SoundCloud and others with a common HTML5 MediaElement API, enabling a consistent UI in all browsers.
+HTML5 <audio> or <video> player with support for MP4, WebM, and MP3 as well as HLS, Dash, YouTube, Facebook, SoundCloud and others with a common HTML5 MediaElement API, enabling a consistent UI in all browsers. 
 '''
 
   * [Github](https://github.com/mediaelement/mediaelement)
   * Stars: 5291
-  * Open issues: 1
+  * Open issues: 2
   * Last pushed: 2017-08-31 (3 days)
 
-## jsoneditor
+## jsoneditor 
 
 '''
-A web-based tool to view, edit, format, and validate JSON
+A web-based tool to view, edit, format, and validate JSON 
 '''
 
   * [Github](https://github.com/josdejong/jsoneditor)
-  * Stars: 3651
+  * Stars: 3652
   * Open issues: 86
   * Last pushed: 2017-09-03 (0 days)
 
-# NGINX
+# NGINX 
 
 ---
 
-## server-configs-nginx
+## server-configs-nginx 
 
 '''
-Nginx HTTP server boilerplate configs
+Nginx HTTP server boilerplate configs 
 '''
 
   * [Github](https://github.com/h5bp/server-configs-nginx)
@@ -520,14 +520,14 @@ Nginx HTTP server boilerplate configs
   * Open issues: 9
   * Last pushed: 2017-07-16 (49 days)
 
-# NONE - DOC
+# NONE - DOC 
 
 ---
 
-## LavaCafeWiki
+## LavaCafeWiki 
 
 '''
-Markdown notes taken by Lava Cafe employee.
+Markdown notes taken by Lava Cafe employee. 
 '''
 
   * [Github](https://github.com/thomasl47/LavaCafeWiki)
@@ -535,10 +535,10 @@ Markdown notes taken by Lava Cafe employee.
   * Open issues: 0
   * Last pushed: 2017-01-05 (241 days)
 
-## dear-github
+## dear-github 
 
 '''
- :incoming_envelope: An open letter to GitHub from the maintainers of open source projects
+ :incoming_envelope: An open letter to GitHub from the maintainers of open source projects 
 '''
 
   * [Github](https://github.com/dear-github/dear-github)
@@ -546,10 +546,10 @@ Markdown notes taken by Lava Cafe employee.
   * Open issues: 151
   * Last pushed: 2017-03-21 (166 days)
 
-## api-standards
+## api-standards 
 
 '''
-None
+None 
 '''
 
   * [Github](https://github.com/WhiteHouse/api-standards)
@@ -557,10 +557,10 @@ None
   * Open issues: 30
   * Last pushed: 2016-09-05 (363 days)
 
-## pelican-bootstrap3
+## pelican-bootstrap3 
 
 '''
-Bootstrap 3 theme for Pelican
+Bootstrap 3 theme for Pelican 
 '''
 
   * [Github](https://github.com/DandyDev/pelican-bootstrap3)
@@ -568,25 +568,25 @@ Bootstrap 3 theme for Pelican
   * Open issues: 0
   * Last pushed: 2016-04-29 (492 days)
 
-## free-programming-books
+## free-programming-books 
 
 '''
-:books: Freely available programming books
+:books: Freely available programming books 
 '''
 
   * [Github](https://github.com/EbookFoundation/free-programming-books)
-  * Stars: 92331
+  * Stars: 92334
   * Open issues: 40
   * Last pushed: 2017-09-03 (0 days)
 
-# PHP
+# PHP 
 
 ---
 
-## dokuwiki-plugin-emoji
+## dokuwiki-plugin-emoji 
 
 '''
-Emoji substitution plugin for DokuWiki
+Emoji substitution plugin for DokuWiki 
 '''
 
   * [Github](https://github.com/ptbrown/dokuwiki-plugin-emoji)
@@ -594,10 +594,10 @@ Emoji substitution plugin for DokuWiki
   * Open issues: 3
   * Last pushed: 2017-03-08 (179 days)
 
-## FrameworkBenchmarks
+## FrameworkBenchmarks 
 
 '''
-Source code for the framework benchmarking project
+Source code for the framework benchmarking project 
 '''
 
   * [Github](https://github.com/TechEmpower/FrameworkBenchmarks)
@@ -605,10 +605,10 @@ Source code for the framework benchmarking project
   * Open issues: 48
   * Last pushed: 2017-09-03 (0 days)
 
-## dokuwiki
+## dokuwiki 
 
 '''
-The DokuWiki Open Source Wiki Engine
+The DokuWiki Open Source Wiki Engine 
 '''
 
   * [Github](https://github.com/splitbrain/dokuwiki)
@@ -616,14 +616,14 @@ The DokuWiki Open Source Wiki Engine
   * Open issues: 224
   * Last pushed: 2017-09-02 (1 days)
 
-# POWERSHELL
+# POWERSHELL 
 
 ---
 
-## cmder
+## cmder 
 
 '''
-Lovely console emulator package for Windows
+Lovely console emulator package for Windows 
 '''
 
   * [Github](https://github.com/cmderdev/cmder)
@@ -631,10 +631,10 @@ Lovely console emulator package for Windows
   * Open issues: 351
   * Last pushed: 2017-08-31 (4 days)
 
-## cmd-colors-solarized
+## cmd-colors-solarized 
 
 '''
-Solarized color settings for Windows command prompt
+Solarized color settings for Windows command prompt 
 '''
 
   * [Github](https://github.com/neilpa/cmd-colors-solarized)
@@ -642,14 +642,25 @@ Solarized color settings for Windows command prompt
   * Open issues: 4
   * Last pushed: 2017-08-29 (5 days)
 
-# PYTHON
+# PYTHON 
 
 ---
 
-## celery
+## my-stars 
 
 '''
-Distributed Task Queue (development branch)
+My stars repositories on Github 
+'''
+
+  * [Github](https://github.com/grtfou/my-stars)
+  * Stars: 1
+  * Open issues: 0
+  * Last pushed: 2017-09-04 (0 days)
+
+## celery 
+
+'''
+Distributed Task Queue (development branch) 
 '''
 
   * [Github](https://github.com/celery/celery)
@@ -657,10 +668,10 @@ Distributed Task Queue (development branch)
   * Open issues: 469
   * Last pushed: 2017-09-03 (0 days)
 
-## aiocache
+## aiocache 
 
 '''
-Asyncio cache manager for redis, memcached and memory
+Asyncio cache manager for redis, memcached and memory 
 '''
 
   * [Github](https://github.com/argaen/aiocache)
@@ -668,10 +679,10 @@ Asyncio cache manager for redis, memcached and memory
   * Open issues: 7
   * Last pushed: 2017-08-28 (6 days)
 
-## aiofiles
+## aiofiles 
 
 '''
-File support for asyncio
+File support for asyncio 
 '''
 
   * [Github](https://github.com/Tinche/aiofiles)
@@ -679,10 +690,10 @@ File support for asyncio
   * Open issues: 13
   * Last pushed: 2017-07-02 (63 days)
 
-## sanic
+## sanic 
 
 '''
-Async Python 3.5+ web server that's written to go fast
+Async Python 3.5+ web server that's written to go fast 
 '''
 
   * [Github](https://github.com/channelcat/sanic)
@@ -690,10 +701,10 @@ Async Python 3.5+ web server that's written to go fast
   * Open issues: 81
   * Last pushed: 2017-09-01 (3 days)
 
-## mongomock
+## mongomock 
 
 '''
-Small library for mocking pymongo collection objects for testing purposes
+Small library for mocking pymongo collection objects for testing purposes 
 '''
 
   * [Github](https://github.com/mongomock/mongomock)
@@ -701,10 +712,10 @@ Small library for mocking pymongo collection objects for testing purposes
   * Open issues: 77
   * Last pushed: 2017-08-04 (30 days)
 
-## pytest-bdd
+## pytest-bdd 
 
 '''
-BDD library for the py.test runner
+BDD library for the py.test runner 
 '''
 
   * [Github](https://github.com/pytest-dev/pytest-bdd)
@@ -712,10 +723,10 @@ BDD library for the py.test runner
   * Open issues: 34
   * Last pushed: 2017-08-16 (18 days)
 
-## pelican
+## pelican 
 
 '''
-Static site generator that supports Markdown and reST syntax. Powered by Python.
+Static site generator that supports Markdown and reST syntax. Powered by Python. 
 '''
 
   * [Github](https://github.com/getpelican/pelican)
@@ -723,10 +734,10 @@ Static site generator that supports Markdown and reST syntax. Powered by Python.
   * Open issues: 158
   * Last pushed: 2017-08-23 (11 days)
 
-## anki
+## anki 
 
 '''
-Anki for desktop computers
+Anki for desktop computers 
 '''
 
   * [Github](https://github.com/dae/anki)
@@ -734,10 +745,10 @@ Anki for desktop computers
   * Open issues: 0
   * Last pushed: 2017-08-31 (3 days)
 
-## emoji
+## emoji 
 
 '''
-emoji terminal output for Python
+emoji terminal output for Python 
 '''
 
   * [Github](https://github.com/carpedm20/emoji)
@@ -745,21 +756,21 @@ emoji terminal output for Python
   * Open issues: 25
   * Last pushed: 2017-09-01 (3 days)
 
-## apistar
+## apistar 
 
 '''
-A smart Web API framework, designed for Python 3. 🌟
+A smart Web API framework, designed for Python 3. 🌟 
 '''
 
   * [Github](https://github.com/encode/apistar)
-  * Stars: 2150
+  * Stars: 2151
   * Open issues: 41
   * Last pushed: 2017-09-01 (2 days)
 
-## motor
+## motor 
 
 '''
-Motor - the async Python driver for MongoDB and Tornado or asyncio
+Motor - the async Python driver for MongoDB and Tornado or asyncio 
 '''
 
   * [Github](https://github.com/mongodb/motor)
@@ -767,10 +778,10 @@ Motor - the async Python driver for MongoDB and Tornado or asyncio
   * Open issues: 0
   * Last pushed: 2017-07-01 (64 days)
 
-## django-allauth
+## django-allauth 
 
 '''
-Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication.
+Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication. 
 '''
 
   * [Github](https://github.com/pennersr/django-allauth)
@@ -778,10 +789,10 @@ Integrated set of Django applications addressing authentication, registration, a
   * Open issues: 117
   * Last pushed: 2017-09-04 (0 days)
 
-## XlsxWriter
+## XlsxWriter 
 
 '''
-A Python module for creating Excel XLSX files.
+A Python module for creating Excel XLSX files. 
 '''
 
   * [Github](https://github.com/jmcnamara/XlsxWriter)
@@ -789,10 +800,10 @@ A Python module for creating Excel XLSX files.
   * Open issues: 43
   * Last pushed: 2017-09-03 (0 days)
 
-## py-utils
+## py-utils 
 
 '''
-Tool boxes
+Tool boxes 
 '''
 
   * [Github](https://github.com/grtfou/py-utils)
@@ -800,10 +811,10 @@ Tool boxes
   * Open issues: 0
   * Last pushed: 2016-08-19 (381 days)
 
-## 755-crawler
+## 755-crawler 
 
 '''
-Backup 755 (7gogo.jp) pictures and videos in post.
+Backup 755 (7gogo.jp) pictures and videos in post. 
 '''
 
   * [Github](https://github.com/grtfou/755-crawler)
@@ -811,10 +822,10 @@ Backup 755 (7gogo.jp) pictures and videos in post.
   * Open issues: 3
   * Last pushed: 2016-08-17 (383 days)
 
-## Gooey
+## Gooey 
 
 '''
-Turn (almost) any Python command line program into a full GUI application with one line
+Turn (almost) any Python command line program into a full GUI application with one line 
 '''
 
   * [Github](https://github.com/chriskiehl/Gooey)
@@ -822,10 +833,10 @@ Turn (almost) any Python command line program into a full GUI application with o
   * Open issues: 45
   * Last pushed: 2017-08-30 (5 days)
 
-## Ghost.py
+## Ghost.py 
 
 '''
-Webkit based scriptable web browser for python.
+Webkit based scriptable web browser for python.  
 '''
 
   * [Github](https://github.com/jeanphix/Ghost.py)
@@ -833,10 +844,10 @@ Webkit based scriptable web browser for python.
   * Open issues: 146
   * Last pushed: 2017-07-28 (37 days)
 
-## lettuce
+## lettuce 
 
 '''
-Cucumber-ish BDD for python
+Cucumber-ish BDD for python 
 '''
 
   * [Github](https://github.com/gabrielfalcao/lettuce)
@@ -844,10 +855,10 @@ Cucumber-ish BDD for python
   * Open issues: 101
   * Last pushed: 2017-08-15 (19 days)
 
-## behave
+## behave 
 
 '''
-BDD, Python style.
+BDD, Python style. 
 '''
 
   * [Github](https://github.com/behave/behave)
@@ -855,21 +866,21 @@ BDD, Python style.
   * Open issues: 88
   * Last pushed: 2017-08-24 (10 days)
 
-## pytest-django
+## pytest-django 
 
 '''
-A Django plugin for pytest.
+A Django plugin for pytest. 
 '''
 
   * [Github](https://github.com/pytest-dev/pytest-django)
-  * Stars: 348
+  * Stars: 349
   * Open issues: 108
   * Last pushed: 2017-09-03 (0 days)
 
-## boto3
+## boto3 
 
 '''
-AWS SDK for Python
+AWS SDK for Python 
 '''
 
   * [Github](https://github.com/boto/boto3)
@@ -877,10 +888,10 @@ AWS SDK for Python
   * Open issues: 186
   * Last pushed: 2017-08-29 (5 days)
 
-## gplus-crawler
+## gplus-crawler 
 
 '''
-Backup Google+ pictures and videos in post.
+Backup Google+ pictures and videos in post. 
 '''
 
   * [Github](https://github.com/grtfou/gplus-crawler)
@@ -888,10 +899,10 @@ Backup Google+ pictures and videos in post.
   * Open issues: 3
   * Last pushed: 2015-12-27 (616 days)
 
-## serpy
+## serpy 
 
 '''
-ridiculously fast object serialization
+ridiculously fast object serialization 
 '''
 
   * [Github](https://github.com/clarkduvall/serpy)
@@ -899,10 +910,10 @@ ridiculously fast object serialization
   * Open issues: 19
   * Last pushed: 2017-05-26 (100 days)
 
-## cookiecutter
+## cookiecutter 
 
 '''
-A command-line utility that creates projects from cookiecutters (project templates). E.g. Python package projects, jQuery plugin projects.
+A command-line utility that creates projects from cookiecutters (project templates). E.g. Python package projects, jQuery plugin projects. 
 '''
 
   * [Github](https://github.com/audreyr/cookiecutter)
@@ -910,10 +921,10 @@ A command-line utility that creates projects from cookiecutters (project templat
   * Open issues: 113
   * Last pushed: 2017-09-02 (1 days)
 
-## lightning-python
+## lightning-python 
 
 '''
-Python client for the lightning API
+Python client for the lightning API 
 '''
 
   * [Github](https://github.com/lightning-viz/lightning-python)
@@ -921,21 +932,21 @@ Python client for the lightning API
   * Open issues: 21
   * Last pushed: 2016-07-25 (406 days)
 
-## youtube-dl
+## youtube-dl 
 
 '''
-Command-line program to download videos from YouTube.com and other video sites
+Command-line program to download videos from YouTube.com and other video sites 
 '''
 
   * [Github](https://github.com/rg3/youtube-dl)
-  * Stars: 28765
-  * Open issues: 1830
+  * Stars: 28766
+  * Open issues: 1831
   * Last pushed: 2017-09-03 (0 days)
 
-## certbot
+## certbot 
 
 '''
-Certbot, previously the Let's Encrypt Client, is EFF's tool to obtain certs from Let's Encrypt, and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
+Certbot, previously the Let's Encrypt Client, is EFF's tool to obtain certs from Let's Encrypt, and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol. 
 '''
 
   * [Github](https://github.com/certbot/certbot)
@@ -943,10 +954,10 @@ Certbot, previously the Let's Encrypt Client, is EFF's tool to obtain certs from
   * Open issues: 827
   * Last pushed: 2017-09-03 (0 days)
 
-## PyUserInput
+## PyUserInput 
 
 '''
-A module for cross-platform control of the mouse and keyboard in python that is simple to install and use.
+A module for cross-platform control of the mouse and keyboard in python that is simple to install and use. 
 '''
 
   * [Github](https://github.com/SavinaRoja/PyUserInput)
@@ -954,10 +965,10 @@ A module for cross-platform control of the mouse and keyboard in python that is 
   * Open issues: 46
   * Last pushed: 2017-08-08 (26 days)
 
-## splinter
+## splinter 
 
 '''
-splinter - python test framework for web applications
+splinter - python test framework for web applications  
 '''
 
   * [Github](https://github.com/cobrateam/splinter)
@@ -965,10 +976,10 @@ splinter - python test framework for web applications
   * Open issues: 204
   * Last pushed: 2017-08-29 (5 days)
 
-## eve
+## eve 
 
 '''
-REST API framework designed for human beings
+REST API framework designed for human beings 
 '''
 
   * [Github](https://github.com/pyeve/eve)
@@ -976,10 +987,10 @@ REST API framework designed for human beings
   * Open issues: 106
   * Last pushed: 2017-09-03 (0 days)
 
-## mycli
+## mycli 
 
 '''
-A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
+A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting. 
 '''
 
   * [Github](https://github.com/dbcli/mycli)
@@ -987,10 +998,10 @@ A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
   * Open issues: 38
   * Last pushed: 2017-08-31 (3 days)
 
-## aiohttp
+## aiohttp 
 
 '''
-Async http client/server framework (asyncio)
+Async http client/server framework (asyncio)  
 '''
 
   * [Github](https://github.com/aio-libs/aiohttp)
@@ -998,10 +1009,10 @@ Async http client/server framework (asyncio)
   * Open issues: 113
   * Last pushed: 2017-09-03 (0 days)
 
-## pulsar
+## pulsar 
 
 '''
-Super fast Pulsar 2.0 is coming!!
+Super fast Pulsar 2.0 is coming!! 
 '''
 
   * [Github](https://github.com/quantmind/pulsar)
@@ -1009,10 +1020,10 @@ Super fast Pulsar 2.0 is coming!!
   * Open issues: 12
   * Last pushed: 2017-07-19 (46 days)
 
-## django-oauth-toolkit
+## django-oauth-toolkit 
 
 '''
-OAuth2 goodies for the Djangonauts!
+OAuth2 goodies for the Djangonauts! 
 '''
 
   * [Github](https://github.com/evonove/django-oauth-toolkit)
@@ -1020,21 +1031,21 @@ OAuth2 goodies for the Djangonauts!
   * Open issues: 76
   * Last pushed: 2017-08-16 (18 days)
 
-## YouCompleteMe
+## YouCompleteMe 
 
 '''
-A code-completion engine for Vim
+A code-completion engine for Vim 
 '''
 
   * [Github](https://github.com/Valloric/YouCompleteMe)
-  * Stars: 14541
+  * Stars: 14542
   * Open issues: 67
   * Last pushed: 2017-08-24 (10 days)
 
-## aws-cli
+## aws-cli 
 
 '''
-Universal Command Line Interface for Amazon Web Services
+Universal Command Line Interface for Amazon Web Services 
 '''
 
   * [Github](https://github.com/aws/aws-cli)
@@ -1042,10 +1053,10 @@ Universal Command Line Interface for Amazon Web Services
   * Open issues: 277
   * Last pushed: 2017-09-03 (0 days)
 
-## s4cmd
+## s4cmd 
 
 '''
-Super S3 command line tool
+Super S3 command line tool 
 '''
 
   * [Github](https://github.com/bloomreach/s4cmd)
@@ -1053,10 +1064,10 @@ Super S3 command line tool
   * Open issues: 66
   * Last pushed: 2017-06-19 (76 days)
 
-## nova
+## nova 
 
 '''
-scalable, on demand, self service access to compute resources, including bare metal, virtual machines, and containers.
+scalable, on demand, self service access to compute resources, including bare metal, virtual machines, and containers. 
 '''
 
   * [Github](https://github.com/openstack/nova)
@@ -1064,10 +1075,10 @@ scalable, on demand, self service access to compute resources, including bare me
   * Open issues: 0
   * Last pushed: 2017-09-04 (0 days)
 
-## django-tastypie
+## django-tastypie 
 
 '''
-Creating delicious APIs for Django apps since 2010.
+Creating delicious APIs for Django apps since 2010. 
 '''
 
   * [Github](https://github.com/django-tastypie/django-tastypie)
@@ -1075,10 +1086,10 @@ Creating delicious APIs for Django apps since 2010.
   * Open issues: 408
   * Last pushed: 2017-08-29 (6 days)
 
-## Mailpile
+## Mailpile 
 
 '''
-A free & open modern, fast email client with user-friendly encryption and privacy features
+A free & open modern, fast email client with user-friendly encryption and privacy features 
 '''
 
   * [Github](https://github.com/mailpile/Mailpile)
@@ -1086,10 +1097,10 @@ A free & open modern, fast email client with user-friendly encryption and privac
   * Open issues: 433
   * Last pushed: 2017-08-31 (3 days)
 
-## django-guardian
+## django-guardian 
 
 '''
-Per object permissions for Django
+Per object permissions for Django 
 '''
 
   * [Github](https://github.com/django-guardian/django-guardian)
@@ -1097,10 +1108,10 @@ Per object permissions for Django
   * Open issues: 49
   * Last pushed: 2017-07-23 (42 days)
 
-## django-cors-headers
+## django-cors-headers 
 
 '''
-Django app for handling the server headers required for Cross-Origin Resource Sharing (CORS)
+Django app for handling the server headers required for Cross-Origin Resource Sharing (CORS) 
 '''
 
   * [Github](https://github.com/ottoyiu/django-cors-headers)
@@ -1108,10 +1119,10 @@ Django app for handling the server headers required for Cross-Origin Resource Sh
   * Open issues: 9
   * Last pushed: 2017-08-10 (24 days)
 
-## geopy
+## geopy 
 
 '''
-Geocoding library for Python.
+Geocoding library for Python. 
 '''
 
   * [Github](https://github.com/geopy/geopy)
@@ -1119,10 +1130,10 @@ Geocoding library for Python.
   * Open issues: 90
   * Last pushed: 2017-09-01 (2 days)
 
-## google-api-python-client
+## google-api-python-client 
 
 '''
-None
+None 
 '''
 
   * [Github](https://github.com/google/google-api-python-client)
@@ -1130,21 +1141,21 @@ None
   * Open issues: 122
   * Last pushed: 2017-08-30 (5 days)
 
-## gunicorn
+## gunicorn 
 
 '''
-gunicorn 'Green Unicorn' is a WSGI HTTP Server for UNIX, fast clients and sleepy applications.
+gunicorn 'Green Unicorn' is a WSGI HTTP Server for UNIX, fast clients and sleepy applications. 
 '''
 
   * [Github](https://github.com/benoitc/gunicorn)
-  * Stars: 4126
+  * Stars: 4127
   * Open issues: 152
   * Last pushed: 2017-09-03 (0 days)
 
-## sentry
+## sentry 
 
 '''
-Sentry is a cross-platform crash reporting and aggregation platform.
+Sentry is a cross-platform crash reporting and aggregation platform. 
 '''
 
   * [Github](https://github.com/getsentry/sentry)
@@ -1152,10 +1163,10 @@ Sentry is a cross-platform crash reporting and aggregation platform.
   * Open issues: 664
   * Last pushed: 2017-09-02 (2 days)
 
-## NewsBlur
+## NewsBlur 
 
 '''
-NewsBlur is a personal news reader that brings people together to talk about the world. A new sound of an old instrument.
+NewsBlur is a personal news reader that brings people together to talk about the world. A new sound of an old instrument. 
 '''
 
   * [Github](https://github.com/samuelclay/NewsBlur)
@@ -1163,10 +1174,10 @@ NewsBlur is a personal news reader that brings people together to talk about the
   * Open issues: 64
   * Last pushed: 2017-08-31 (4 days)
 
-## google-cloud-python
+## google-cloud-python 
 
 '''
-Google Cloud Client Library for Python
+Google Cloud Client Library for Python 
 '''
 
   * [Github](https://github.com/GoogleCloudPlatform/google-cloud-python)
@@ -1174,10 +1185,10 @@ Google Cloud Client Library for Python
   * Open issues: 77
   * Last pushed: 2017-09-01 (2 days)
 
-## django-rest-framework-jwt
+## django-rest-framework-jwt 
 
 '''
-JSON Web Token Authentication support for Django REST Framework
+JSON Web Token Authentication support for Django REST Framework 
 '''
 
   * [Github](https://github.com/GetBlimp/django-rest-framework-jwt)
@@ -1185,10 +1196,10 @@ JSON Web Token Authentication support for Django REST Framework
   * Open issues: 85
   * Last pushed: 2017-08-30 (4 days)
 
-## Nest
+## Nest 
 
 '''
-None
+None 
 '''
 
   * [Github](https://github.com/cucut/Nest)
@@ -1196,10 +1207,10 @@ None
   * Open issues: 2
   * Last pushed: 2015-01-18 (960 days)
 
-## PyAPNs
+## PyAPNs 
 
 '''
-Python library for interacting with the Apple Push Notification service (APNs)
+Python library for interacting with the Apple Push Notification service (APNs) 
 '''
 
   * [Github](https://github.com/djacobs/PyAPNs)
@@ -1207,10 +1218,10 @@ Python library for interacting with the Apple Push Notification service (APNs)
   * Open issues: 49
   * Last pushed: 2017-07-14 (52 days)
 
-## boto
+## boto 
 
 '''
-For the latest version of boto, see https://github.com/boto/boto3 -- Python interface to Amazon Web Services
+For the latest version of boto, see https://github.com/boto/boto3 -- Python interface to Amazon Web Services 
 '''
 
   * [Github](https://github.com/boto/boto)
@@ -1218,10 +1229,10 @@ For the latest version of boto, see https://github.com/boto/boto3 -- Python inte
   * Open issues: 1118
   * Last pushed: 2017-08-28 (6 days)
 
-## click
+## click 
 
 '''
-Python composable command line utility
+Python composable command line utility 
 '''
 
   * [Github](https://github.com/pallets/click)
@@ -1229,10 +1240,10 @@ Python composable command line utility
   * Open issues: 233
   * Last pushed: 2017-08-29 (5 days)
 
-## faker
+## faker 
 
 '''
-Faker is a Python package that generates fake data for you.
+Faker is a Python package that generates fake data for you. 
 '''
 
   * [Github](https://github.com/joke2k/faker)
@@ -1240,21 +1251,21 @@ Faker is a Python package that generates fake data for you.
   * Open issues: 59
   * Last pushed: 2017-09-02 (1 days)
 
-## awesome-python
+## awesome-python 
 
 '''
-A curated list of awesome Python frameworks, libraries, software and resources
+A curated list of awesome Python frameworks, libraries, software and resources 
 '''
 
   * [Github](https://github.com/vinta/awesome-python)
-  * Stars: 38142
+  * Stars: 38144
   * Open issues: 258
   * Last pushed: 2017-09-01 (2 days)
 
-## falcon
+## falcon 
 
 '''
-Falcon is a bare-metal Python web framework for building  high-performance microservices, app backends, and higher-level frameworks.
+Falcon is a bare-metal Python web framework for building  high-performance microservices, app backends, and higher-level frameworks. 
 '''
 
   * [Github](https://github.com/falconry/falcon)
@@ -1262,10 +1273,10 @@ Falcon is a bare-metal Python web framework for building  high-performance micro
   * Open issues: 158
   * Last pushed: 2017-08-29 (5 days)
 
-## kivy
+## kivy 
 
 '''
-Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS
+Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS 
 '''
 
   * [Github](https://github.com/kivy/kivy)
@@ -1273,10 +1284,10 @@ Open source UI framework written in Python, running on Windows, Linux, macOS, An
   * Open issues: 584
   * Last pushed: 2017-09-03 (1 days)
 
-## pyapns
+## pyapns 
 
 '''
-An APNS provider with multi-app support.
+An APNS provider with multi-app support. 
 '''
 
   * [Github](https://github.com/samuraisam/pyapns)
@@ -1284,10 +1295,10 @@ An APNS provider with multi-app support.
   * Open issues: 25
   * Last pushed: 2017-04-17 (139 days)
 
-## python-social-auth
+## python-social-auth 
 
 '''
-Social auth made simple
+Social auth made simple 
 '''
 
   * [Github](https://github.com/omab/python-social-auth)
@@ -1295,10 +1306,10 @@ Social auth made simple
   * Open issues: 8
   * Last pushed: 2017-06-23 (72 days)
 
-## django-rest-framework
+## django-rest-framework 
 
 '''
-Web APIs for Django.
+Web APIs for Django. 
 '''
 
   * [Github](https://github.com/encode/django-rest-framework)
@@ -1306,10 +1317,10 @@ Web APIs for Django.
   * Open issues: 174
   * Last pushed: 2017-09-04 (0 days)
 
-## livestreamer
+## livestreamer 
 
 '''
-Command-line utility that extracts streams from various services and pipes them into a video player of choice.
+Command-line utility that extracts streams from various services and pipes them into a video player of choice. 
 '''
 
   * [Github](https://github.com/chrippa/livestreamer)
@@ -1317,10 +1328,10 @@ Command-line utility that extracts streams from various services and pipes them 
   * Open issues: 643
   * Last pushed: 2017-04-01 (155 days)
 
-## powerline
+## powerline 
 
 '''
-Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile.
+Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile. 
 '''
 
   * [Github](https://github.com/powerline/powerline)
@@ -1328,10 +1339,10 @@ Powerline is a statusline plugin for vim, and provides statuslines and prompts f
   * Open issues: 91
   * Last pushed: 2017-09-02 (1 days)
 
-## python-patterns
+## python-patterns 
 
 '''
-A collection of design patterns/idioms in Python
+A collection of design patterns/idioms in Python 
 '''
 
   * [Github](https://github.com/faif/python-patterns)
@@ -1339,10 +1350,10 @@ A collection of design patterns/idioms in Python
   * Open issues: 5
   * Last pushed: 2017-08-25 (9 days)
 
-## schema
+## schema 
 
 '''
-Schema validation just got Pythonic
+Schema validation just got Pythonic 
 '''
 
   * [Github](https://github.com/keleshev/schema)
@@ -1350,10 +1361,10 @@ Schema validation just got Pythonic
   * Open issues: 39
   * Last pushed: 2017-08-21 (13 days)
 
-## sh
+## sh 
 
 '''
-Python process launching
+Python process launching 
 '''
 
   * [Github](https://github.com/amoffat/sh)
@@ -1361,21 +1372,21 @@ Python process launching
   * Open issues: 29
   * Last pushed: 2017-07-21 (45 days)
 
-## glances
+## glances 
 
 '''
-Glances an Eye on your system. A top/htop alternative.
+Glances an Eye on your system. A top/htop alternative. 
 '''
 
   * [Github](https://github.com/nicolargo/glances)
-  * Stars: 7970
+  * Stars: 7972
   * Open issues: 46
   * Last pushed: 2017-08-27 (7 days)
 
-## gspread
+## gspread 
 
 '''
-Google Spreadsheets Python API
+Google Spreadsheets Python API 
 '''
 
   * [Github](https://github.com/burnash/gspread)
@@ -1383,10 +1394,10 @@ Google Spreadsheets Python API
   * Open issues: 111
   * Last pushed: 2017-08-25 (10 days)
 
-## paramiko
+## paramiko 
 
 '''
-The leading native Python SSHv2 protocol library.
+The leading native Python SSHv2 protocol library. 
 '''
 
   * [Github](https://github.com/paramiko/paramiko)
@@ -1394,10 +1405,10 @@ The leading native Python SSHv2 protocol library.
   * Open issues: 358
   * Last pushed: 2017-09-04 (0 days)
 
-## python-for-android
+## python-for-android 
 
 '''
-Turn your Python application into an Android APK
+Turn your Python application into an Android APK 
 '''
 
   * [Github](https://github.com/kivy/python-for-android)
@@ -1405,10 +1416,10 @@ Turn your Python application into an Android APK
   * Open issues: 191
   * Last pushed: 2017-09-01 (3 days)
 
-## python-gcm
+## python-gcm 
 
 '''
-Python client for Google Cloud Messaging for Android (GCM)
+Python client for Google Cloud Messaging for Android (GCM) 
 '''
 
   * [Github](https://github.com/geeknam/python-gcm)
@@ -1416,10 +1427,10 @@ Python client for Google Cloud Messaging for Android (GCM)
   * Open issues: 8
   * Last pushed: 2017-04-27 (130 days)
 
-## arrow
+## arrow 
 
 '''
-Better dates & times for Python
+Better dates & times for Python 
 '''
 
   * [Github](https://github.com/crsmithdev/arrow)
@@ -1427,10 +1438,10 @@ Better dates & times for Python
   * Open issues: 97
   * Last pushed: 2017-08-09 (25 days)
 
-## requests
+## requests 
 
 '''
-Python HTTP Requests for Humans™ ✨🍰✨
+Python HTTP Requests for Humans™ ✨🍰✨ 
 '''
 
   * [Github](https://github.com/requests/requests)
@@ -1438,10 +1449,10 @@ Python HTTP Requests for Humans™ ✨🍰✨
   * Open issues: 84
   * Last pushed: 2017-09-03 (0 days)
 
-## pyre2
+## pyre2 
 
 '''
-Python wrapper for RE2
+Python wrapper for RE2 
 '''
 
   * [Github](https://github.com/axiak/pyre2)
@@ -1449,10 +1460,10 @@ Python wrapper for RE2
   * Open issues: 28
   * Last pushed: 2017-08-14 (20 days)
 
-## django
+## django 
 
 '''
-The Web framework for perfectionists with deadlines.
+The Web framework for perfectionists with deadlines. 
 '''
 
   * [Github](https://github.com/django/django)
@@ -1460,10 +1471,10 @@ The Web framework for perfectionists with deadlines.
   * Open issues: 171
   * Last pushed: 2017-09-04 (0 days)
 
-## pysolr
+## pysolr 
 
 '''
-Pysolr — the official source.
+Pysolr — the official source. 
 '''
 
   * [Github](https://github.com/django-haystack/pysolr)
@@ -1471,10 +1482,10 @@ Pysolr — the official source.
   * Open issues: 77
   * Last pushed: 2017-07-19 (46 days)
 
-## zipline
+## zipline 
 
 '''
-Zipline, a Pythonic Algorithmic Trading Library
+Zipline, a Pythonic Algorithmic Trading Library 
 '''
 
   * [Github](https://github.com/quantopian/zipline)
@@ -1482,14 +1493,14 @@ Zipline, a Pythonic Algorithmic Trading Library
   * Open issues: 200
   * Last pushed: 2017-09-02 (2 days)
 
-# SHELL
+# SHELL 
 
 ---
 
-## autoenv
+## autoenv 
 
 '''
-Directory-based environments.
+Directory-based environments. 
 '''
 
   * [Github](https://github.com/kennethreitz/autoenv)
@@ -1497,21 +1508,21 @@ Directory-based environments.
   * Open issues: 19
   * Last pushed: 2017-09-01 (2 days)
 
-## gitflow
+## gitflow 
 
 '''
-Git extensions to provide high-level repository operations for Vincent Driessen's branching model.
+Git extensions to provide high-level repository operations for Vincent Driessen's branching model. 
 '''
 
   * [Github](https://github.com/nvie/gitflow)
-  * Stars: 18132
+  * Stars: 18133
   * Open issues: 271
   * Last pushed: 2017-09-01 (2 days)
 
-## pyenv-virtualenvwrapper
+## pyenv-virtualenvwrapper 
 
 '''
-an alternative approach to manage virtualenvs from pyenv.
+an alternative approach to manage virtualenvs from pyenv. 
 '''
 
   * [Github](https://github.com/pyenv/pyenv-virtualenvwrapper)
@@ -1519,10 +1530,10 @@ an alternative approach to manage virtualenvs from pyenv.
   * Open issues: 9
   * Last pushed: 2017-08-20 (14 days)
 
-## pyenv-virtualenv
+## pyenv-virtualenv 
 
 '''
-a pyenv plugin to manage virtualenv (a.k.a. python-virtualenv)
+a pyenv plugin to manage virtualenv (a.k.a. python-virtualenv) 
 '''
 
   * [Github](https://github.com/pyenv/pyenv-virtualenv)
@@ -1530,10 +1541,10 @@ a pyenv plugin to manage virtualenv (a.k.a. python-virtualenv)
   * Open issues: 27
   * Last pushed: 2017-08-24 (11 days)
 
-## pyenv
+## pyenv 
 
 '''
-Simple Python version management
+Simple Python version management 
 '''
 
   * [Github](https://github.com/pyenv/pyenv)
@@ -1541,14 +1552,14 @@ Simple Python version management
   * Open issues: 96
   * Last pushed: 2017-08-28 (7 days)
 
-# TEX
+# TEX 
 
 ---
 
-## tldr
+## tldr 
 
 '''
-:books: Simplified and community-driven man pages
+:books: Simplified and community-driven man pages 
 '''
 
   * [Github](https://github.com/tldr-pages/tldr)
@@ -1556,14 +1567,14 @@ Simple Python version management
   * Open issues: 55
   * Last pushed: 2017-09-03 (0 days)
 
-# VIM SCRIPT
+# VIM SCRIPT 
 
 ---
 
-## Vundle.vim
+## Vundle.vim 
 
 '''
-Vundle, the plug-in manager for Vim
+Vundle, the plug-in manager for Vim 
 '''
 
   * [Github](https://github.com/VundleVim/Vundle.vim)
@@ -1571,14 +1582,14 @@ Vundle, the plug-in manager for Vim
   * Open issues: 161
   * Last pushed: 2017-08-25 (9 days)
 
-# VIML
+# VIML 
 
 ---
 
-## molokai
+## molokai 
 
 '''
-Molokai color scheme for Vim
+Molokai color scheme for Vim 
 '''
 
   * [Github](https://github.com/tomasr/molokai)

@@ -82,7 +82,8 @@ async def main(loop):
 
     print("Total starred repos: {}".format(count))
     with open(OUTPUT_FILENAME, 'w') as ffi:
-        ffi.write("##### Created at {}\n\n".format(date.today()))
+        ffi.write("##### Created at {} by get_starred_list.py\n\n".format(
+            date.today()))
         for lng, projs in sorted(data.items(), key=lambda data: data[0]):
             ffi.write("# {} \n\n".format(lng))
             ffi.write("---\n\n")
