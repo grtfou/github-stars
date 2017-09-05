@@ -1,5 +1,5 @@
 """
-@date       170904 - Imp
+@date       170905 - Enhanced run code information
 
 Query starred list from user github and export to markdown file.
 
@@ -82,8 +82,15 @@ async def main(loop):
 
     print("Total starred repos: {}".format(count))
     with open(OUTPUT_FILENAME, 'w') as ffi:
-        ffi.write("##### Created at {} by get_starred_list.py\n\n".format(
+        code_repo_url = "https://github.com/grtfou/my-stars.git"
+        ffi.write("##### Created at {}\n\n".format(
             date.today()))
+        ffi.write("```bash\n $ git clone {}\n"
+                  " $ cd my-stars\n"
+                  " $ pip install -r requirements.txt\n"
+                  " $ python get_starred_list.py\n"
+                  "```\n\n".format(code_repo_url))
+
         for lng, projs in sorted(data.items(), key=lambda data: data[0]):
             ffi.write("# {} \n\n".format(lng))
             ffi.write("---\n\n")
