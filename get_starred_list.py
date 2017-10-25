@@ -97,15 +97,15 @@ async def main(loop):
 
         # bookmark
         for lng in data:
-            lng = lng.lower()
-            if lng == 'c++':
-                lng = 'c-2'
-            elif lng == 'document':
-                continue
+            lng_bk = lng.lower()
+            lng_name = lng
 
-            lng = lng.replace(" ", "-")
+            if lng_bk == 'c++':
+                lng_bk = 'c-2'
 
-            ffi.write("* [{0}](#{0})\n".format(lng.lower()))
+            lng_bk = lng_bk.replace(" ", "-")
+
+            ffi.write("* [{}](#{})\n".format(lng_name, lng_bk))
 
         ffi.write("\n")
         # repo stars
