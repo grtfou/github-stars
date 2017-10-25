@@ -72,7 +72,7 @@ async def main(loop):
                 count += 1
                 lng = proj.get('language', '')
                 if lng is None:
-                    lng = 'NONE - DOC'
+                    lng = 'DOCUMENT'
                 else:
                     lng = lng.upper()
 
@@ -97,7 +97,15 @@ async def main(loop):
 
         # bookmark
         for lng in data:
-            ffi.write("* [{0}](#{0})\n".format(lng))
+            lng = lng.lower()
+            if lng == 'c++':
+                lng = 'c-2'
+            elif lng == 'document':
+                continue
+
+            lng = lng.replace(" ", "-")
+
+            ffi.write("* [{0}](#{0})\n".format(lng.lower()))
 
         ffi.write("\n")
         # repo stars
