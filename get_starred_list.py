@@ -1,5 +1,5 @@
 """
-@date       171025 - Enhanced doc format
+@date       171117 - Enhanced doc format
 
 Query starred list from user github and export to markdown file.
 
@@ -96,16 +96,18 @@ async def main(loop):
                   "```\n\n".format(REPO_LINK))
 
         # bookmark
-        for lng in data:
-            lng_bk = lng.lower()
+        for lng in sorted(data):
+            lng_bookmark = lng.lower()
             lng_name = lng
+            lng_count = len(data[lng])
 
-            if lng_bk == 'c++':
-                lng_bk = 'c-2'
+            if lng_bookmark == 'c++':
+                lng_bookmark = 'c-2'
 
-            lng_bk = lng_bk.replace(" ", "-")
+            lng_bookmark = lng_bookmark.replace(" ", "-")
 
-            ffi.write("* [{}](#{})\n".format(lng_name, lng_bk))
+            ffi.write("* [{}](#{}) ({})\n".format(
+                lng_name, lng_bookmark, lng_count))
 
         ffi.write("\n")
         # repo stars
