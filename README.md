@@ -437,7 +437,7 @@ The iconic font and CSS toolkit
 ```
 
   * [Github](https://github.com/FortAwesome/Font-Awesome)
-  * Stars: 53873
+  * Stars: 53874
   * Open issues: 4328
   * Last pushed: 2017-12-12 (5 days)
 
@@ -852,7 +852,7 @@ My stars repositories on Github
   * [Github](https://github.com/grtfou/my-stars)
   * Stars: 1
   * Open issues: 0
-  * Last pushed: 2017-11-17 (30 days)
+  * Last pushed: 2017-12-18 (0 days)
 
 ## celery 
 
@@ -1136,7 +1136,7 @@ Command-line program to download videos from YouTube.com and other video sites
 ```
 
   * [Github](https://github.com/rg3/youtube-dl)
-  * Stars: 32105
+  * Stars: 32106
   * Open issues: 1992
   * Last pushed: 2017-12-18 (0 days)
 
@@ -1433,7 +1433,7 @@ Faker is a Python package that generates fake data for you.
 ```
 
   * [Github](https://github.com/joke2k/faker)
-  * Stars: 5350
+  * Stars: 5351
   * Open issues: 68
   * Last pushed: 2017-12-13 (4 days)
 
