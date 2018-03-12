@@ -110,6 +110,7 @@ async def main(loop, conf):
         ffi.write("```bash\n $ git clone {}\n"
                   " $ cd my-stars\n"
                   " $ pip install -r requirements.txt\n"
+                  " $ vim settings.ini\n"
                   " $ python get_starred_list.py\n"
                   "```\n\n".format(conf['readme_link']))
 
