@@ -104,13 +104,13 @@ async def main(loop, conf):
 
         # setup
         ffi.write("#### Requirement\n\n")
-        ffi.write("  * Python >= 3.5, 3.6\n")
-        ffi.write("  * aiohttp >= 2.3.1\n")
+        ffi.write("  * Python >= 3.5 ~ 3.9\n")
+        ffi.write("  * aiohttp >= 2.4.0\n")
 
         ffi.write("#### How to use\n\n")
         ffi.write("```bash\n $ cd my-stars\n"
                   " $ pip install -r requirements.txt\n"
-                  " $ vim settings.ini  # edit TARGET_ACCOUT\n"
+                  " $ vim settings.ini  # edit TARGET_ACCOUT by your username\n"
                   " $ python get_starred_list.py\n"
                   "```\n\n")
 
