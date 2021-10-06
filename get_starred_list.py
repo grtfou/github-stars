@@ -1,5 +1,5 @@
 """
-@date       180427 - Edit some variables name
+@date       211006
 
 Query starred list from user github and export to markdown file.
 
@@ -15,8 +15,7 @@ Ref:
 import configparser
 from datetime import datetime, date
 import asyncio
-import aiohttp
-
+import httpx
 
 API_URL = 'https://api.github.com'
 
@@ -57,15 +56,15 @@ async def fetch(client, conf, page=1):
     header = {
         'content-type': 'application/vnd.github.v3+json'
     }
-    async with client.get(url, headers=header) as resp:
-        assert resp.status == 200
-        # print(resp.headers.get('link').split(',')[-1])
-        return await resp.json()
+
+    resp = await client.get(url, headers=header)
+    assert resp.status_code == 200
+    return resp.json()
 
 
-async def main(loop, conf):
+async def main(conf):
     data = {}
-    async with aiohttp.ClientSession(loop=loop) as client:
+    async with httpx.AsyncClient() as client:
         page = 1
         count = 0
         while True:
@@ -105,7 +104,7 @@ async def main(loop, conf):
         # setup
         ffi.write("#### Requirement\n\n")
         ffi.write("  * Python >= 3.5 ~ 3.9\n")
-        ffi.write("  * aiohttp >= 2.4.0\n")
+        ffi.write("  * httpx == 0.19\n")
 
         ffi.write("#### How to use\n\n")
         ffi.write("```bash\n $ cd my-stars\n"
@@ -153,6 +152,5 @@ async def main(loop, conf):
                 _repos_checker(lng, proj, last_code_push)
 
 if __name__ == '__main__':
-    loop = asyncio.get_event_loop()
     conf = _get_conf()
-    loop.run_until_complete(main(loop, conf))
+    asyncio.run(main(conf))
